@@ -1,127 +1,42 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
-<head>
-<title>The Network</title>
-<!-- 2014-03-22 Sat 23:22 -->
-<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<meta  name="generator" content="Org-mode" />
-<meta  name="author" content="paul" />
-<link rel="stylesheet" href="http://doc.norang.ca/org.css" type="text/css" />
-<script type="text/javascript">
-/*
-@licstart  The following is the entire license notice for the
-JavaScript code in this tag.
+#+TITLE: The Network
+#+EMAIL: paul@unstate.ca
 
-Copyright (C) 2012-2013 Free Software Foundation, Inc.
+* Introduction
+[2014-03-22 Sat 23:13] 
 
-The JavaScript code in this tag is free software: you can
-redistribute it and/or modify it under the terms of the GNU
-General Public License (GNU GPL) as published by the Free Software
-Foundation, either version 3 of the License, or (at your option)
-any later version.  The code is distributed WITHOUT ANY WARRANTY;
-without even the implied warranty of MERCHANTABILITY or FITNESS
-FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
-
-As additional permission under GNU GPL version 3 section 7, you
-may distribute non-source (e.g., minimized or compacted) forms of
-that code without the copy of the GNU GPL normally required by
-section 4, provided you include this license notice and a URL
-through which recipients can access the Corresponding Source.
-
-
-@licend  The above is the entire license notice
-for the JavaScript code in this tag.
-*/
-<!--/*--><![CDATA[/*><!--*/
- function CodeHighlightOn(elem, id)
- {
-   var target = document.getElementById(id);
-   if(null != target) {
-     elem.cacheClassElem = elem.className;
-     elem.cacheClassTarget = target.className;
-     target.className = "code-highlighted";
-     elem.className   = "code-highlighted";
-   }
- }
- function CodeHighlightOff(elem, id)
- {
-   var target = document.getElementById(id);
-   if(elem.cacheClassElem)
-     elem.className = elem.cacheClassElem;
-   if(elem.cacheClassTarget)
-     target.className = elem.cacheClassTarget;
- }
-/*]]>*///-->
-</script>
-</head>
-<body>
-<div id="content">
-<h1 class="title">The Network</h1>
-<div id="table-of-contents">
-<h2>Table of Contents</h2>
-<div id="text-table-of-contents">
-<ul>
-<li><a href="#sec-1">1. Introduction</a></li>
-</ul>
-</div>
-</div>
-
-<div id="outline-container-sec-1" class="outline-2">
-<h2 id="sec-1"><span class="section-number-2">1</span> Introduction</h2>
-<div class="outline-text-2" id="text-1">
-
-<div class="figure">
-<p>
-</p>
-</div>
-
-<p>
 What is a network? It is a web of connections. In the
 social network this is a description of mostly verbal and / or written
 communications between people, but could also describe other relationships:
 ownership, dependency, teacher-student, money / banking, governance / law,
 punishment / enforcement.
-</p>
 
-<p>
 What is law? It is a formalized social contract for collective governance. It is
 a form of agreement. Ideally, everyone would agree to the laws at some
 point. Law has a kind of enforcement aspect, which is also a formalized
 agreement. In fact we can generalize law as a social network where ideally
 everyone agrees to the accepted behaviors and responses to broken agreements.
-</p>
 
-<p>
 What happens at the margins, where no agreement exists? In this case (as in all
 cases) people can act 'freely' but are subject to others' behaviors that may be
 in response. In fact, without formal agreements, other less formal behaviors
 would dominate that may be less than optimal for the sum of the 'participants'.
-</p>
 
-<p>
 In fact, the purpose of the social network is to optimize the set of agreements
 in such a way as to maximize collective well-being. This well-being of course
 would be a subjective measure based in the feelings and ideas of the
 participants. Formalized agreements are often not necessary until an awareness
 arises of a possible social contract that would improve well-being.
-</p>
 
-<p>
 If the goal of the social network is to maximize well-being, then it follows
 that the structure of this network may be improved in such a way as to better
 achieve this goal.
-</p>
 
-<p>
 What is the minimum set of features that are required to begin this process?
 {} - the null set, because the process is already started here and
 everywhere. The social network as it exists currently is very disordered and
 involves tyranny, corruption, severe poverty, inequality, etc which leads to
 very low well-being.
-</p>
 
-<p>
 So it follows that the social network as it exists can be vastly improved. Now
 it would be easy to come up with a large list of vast improvements to this
 network. Here are some: consensual, consensus, non-coercive, formal and
@@ -131,18 +46,14 @@ appropriate order. Also we have a chicken / egg dilemma where some features may
 need to be in place before consensus can be reached on whether or not to adopt
 such features. In practice however, thes may not be too much of an issue as long
 as changes can be made after 'joining' the network.
-</p>
 
-<p>
 What does it mean to 'join' the network? Perhaps this is a misnomer if we agree
 that we are always a part of 'the' network anyway. Perhaps it would be useful to
 distinguish networks within 'the' network. 'The' network could be seen as a
 collection of connected sub-networks, each with different cultures, formalities
 agreements, etc. To 'join' a network would mean to become a part of presumably a
 subset of the network with some formal structures.
-</p>
 
-<p>
 Now these definitions may be somewhat academic if our goal is to create a
 sub-network within the broader existing totality. But it does help to establish
 the possible place and scope of such a formalized sub-network. In fact I'm
@@ -151,17 +62,13 @@ changes that can improve it. We may call the global network 'Society'. In a
 sense, I'm proposing that Society become more aware and to improve its structure
 in a feedback mechanism that produces a continuous and sustainable cycle of
 improvement to well-being.
-</p>
 
-<p>
 This ma then be the first thing to implement: a means to improve awareness. So
 to join this network is to agree to engage in activities that improve our
 awareness of the network as it currently exists. A mapping project may be in
 order that would allow people to describe the current social structure of
 society, such as wealth and ownership, laws and domination etc.
-</p>
 
-<p>
 It seems to me however, that data collection such as this - while useful - is
 not nearly as effective in raising awareness as by actively participating in and
 building alternatives. So while a very unfair (non-optimal) network does exist,
@@ -169,31 +76,12 @@ its power and influence would diminish as others grew. In effect then, what I'm
 proposing is an alternative of alternatives. A single homogeneous, formal
 network to replace all others and to formalize the consensus-building process
 necessary for such a network.
-</p>
 
-<p>
 Some potential features: 
-</p>
 
-<ul class="org-ul">
-<li>homogeneous: This would mean a maximum branching factor (say 8)
-</li>
-<li>protocols: growth, splitting moving, leaving, consensus, communication
-banking, roles, evaluation, inter / extra network disagreements, delegates
-</li>
-</ul>
+- homogeneous: This would mean a maximum branching factor (say 8)
+- protocols: growth, splitting moving, leaving, consensus, communication
+  banking, roles, evaluation, inter / extra network disagreements, delegates
 
-<p>
 These protocols could be formalized within the network itself. Begin!
-</p>
-</div>
-</div>
-</div>
-<div id="postamble" class="status">
-<p class="author">Author: paul</p>
-<p class="date">Created: 2014-03-22 Sat 23:22</p>
-<p class="creator"><a href="http://www.gnu.org/software/emacs/">Emacs</a> 24.3.1 (<a href="http://orgmode.org">Org</a> mode 8.2.5h)</p>
-<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
-</div>
-</body>
-</html>
+
