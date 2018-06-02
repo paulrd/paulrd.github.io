@@ -1,0 +1,87 @@
+#+TITLE: The Network
+#+EMAIL: paul@unstate.ca
+
+* Introduction
+[2014-03-22 Sat 23:13] 
+
+What is a network? It is a web of connections. In the
+social network this is a description of mostly verbal and / or written
+communications between people, but could also describe other relationships:
+ownership, dependency, teacher-student, money / banking, governance / law,
+punishment / enforcement.
+
+What is law? It is a formalized social contract for collective governance. It is
+a form of agreement. Ideally, everyone would agree to the laws at some
+point. Law has a kind of enforcement aspect, which is also a formalized
+agreement. In fact we can generalize law as a social network where ideally
+everyone agrees to the accepted behaviors and responses to broken agreements.
+
+What happens at the margins, where no agreement exists? In this case (as in all
+cases) people can act 'freely' but are subject to others' behaviors that may be
+in response. In fact, without formal agreements, other less formal behaviors
+would dominate that may be less than optimal for the sum of the 'participants'.
+
+In fact, the purpose of the social network is to optimize the set of agreements
+in such a way as to maximize collective well-being. This well-being of course
+would be a subjective measure based in the feelings and ideas of the
+participants. Formalized agreements are often not necessary until an awareness
+arises of a possible social contract that would improve well-being.
+
+If the goal of the social network is to maximize well-being, then it follows
+that the structure of this network may be improved in such a way as to better
+achieve this goal.
+
+What is the minimum set of features that are required to begin this process?
+{} - the null set, because the process is already started here and
+everywhere. The social network as it exists currently is very disordered and
+involves tyranny, corruption, severe poverty, inequality, etc which leads to
+very low well-being.
+
+So it follows that the social network as it exists can be vastly improved. Now
+it would be easy to come up with a large list of vast improvements to this
+network. Here are some: consensual, consensus, non-coercive, formal and
+informal, economic, social, equality, etc. However, some of these ideals or
+improvements depend on others. So it would be best to introduce them in the
+appropriate order. Also we have a chicken / egg dilemma where some features may
+need to be in place before consensus can be reached on whether or not to adopt
+such features. In practice however, thes may not be too much of an issue as long
+as changes can be made after 'joining' the network.
+
+What does it mean to 'join' the network? Perhaps this is a misnomer if we agree
+that we are always a part of 'the' network anyway. Perhaps it would be useful to
+distinguish networks within 'the' network. 'The' network could be seen as a
+collection of connected sub-networks, each with different cultures, formalities
+agreements, etc. To 'join' a network would mean to become a part of presumably a
+subset of the network with some formal structures.
+
+Now these definitions may be somewhat academic if our goal is to create a
+sub-network within the broader existing totality. But it does help to establish
+the possible place and scope of such a formalized sub-network. In fact I'm
+simply proposing that we became more aware of the social network and make
+changes that can improve it. We may call the global network 'Society'. In a
+sense, I'm proposing that Society become more aware and to improve its structure
+in a feedback mechanism that produces a continuous and sustainable cycle of
+improvement to well-being.
+
+This ma then be the first thing to implement: a means to improve awareness. So
+to join this network is to agree to engage in activities that improve our
+awareness of the network as it currently exists. A mapping project may be in
+order that would allow people to describe the current social structure of
+society, such as wealth and ownership, laws and domination etc.
+
+It seems to me however, that data collection such as this - while useful - is
+not nearly as effective in raising awareness as by actively participating in and
+building alternatives. So while a very unfair (non-optimal) network does exist,
+its power and influence would diminish as others grew. In effect then, what I'm
+proposing is an alternative of alternatives. A single homogeneous, formal
+network to replace all others and to formalize the consensus-building process
+necessary for such a network.
+
+Some potential features: 
+
+- homogeneous: This would mean a maximum branching factor (say 8)
+- protocols: growth, splitting moving, leaving, consensus, communication
+  banking, roles, evaluation, inter / extra network disagreements, delegates
+
+These protocols could be formalized within the network itself. Begin!
+
